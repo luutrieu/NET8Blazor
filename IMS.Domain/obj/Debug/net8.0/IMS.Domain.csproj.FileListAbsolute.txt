@@ -1,0 +1,11 @@
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\bin\Debug\net8.0\IMS.Domain.deps.json
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\bin\Debug\net8.0\IMS.Domain.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\bin\Debug\net8.0\IMS.Domain.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.AssemblyInfoInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.AssemblyInfo.cs
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.csproj.CoreCompileInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\refint\IMS.Domain.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\IMS.Domain.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Domain\obj\Debug\net8.0\ref\IMS.Domain.dll

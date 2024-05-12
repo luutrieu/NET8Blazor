@@ -1,0 +1,12 @@
+C:\study-it\study\InventoryManagementSystem\IMS.Application\bin\Debug\net8.0\IMS.Application.deps.json
+C:\study-it\study\InventoryManagementSystem\IMS.Application\bin\Debug\net8.0\IMS.Application.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Application\bin\Debug\net8.0\IMS.Application.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.csproj.AssemblyReference.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.AssemblyInfoInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.AssemblyInfo.cs
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.csproj.CoreCompileInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\refint\IMS.Application.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\IMS.Application.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Application\obj\Debug\net8.0\ref\IMS.Application.dll

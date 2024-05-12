@@ -1,0 +1,17 @@
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.deps.json
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Application.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Application.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infr.A6A27735.Up2Date
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\refint\IMS.Infrastructure.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.pdb
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\obj\Debug\net8.0\ref\IMS.Infrastructure.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Domain.dll
+C:\study-it\study\InventoryManagementSystem\IMS.Infrastructure\bin\Debug\net8.0\IMS.Domain.pdb

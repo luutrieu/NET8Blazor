@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study-it\\study\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\orders\\getorderedproductswithquantityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\orders\\getorderedproductswithquantityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\orders\\getgenericorderscounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\orders\\getgenericorderscounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF2D9F-4072-45E5-9C25-A94B7B7E60A5}|IMS.Application\\IMS.Application.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.application\\service\\orders\\queries\\getorderedproductswithquantityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF2D9F-4072-45E5-9C25-A94B7B7E60A5}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\service\\orders\\queries\\getorderedproductswithquantityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\orders\\getallordershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\orders\\getallordershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\products\\handlers\\categories\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\products\\handlers\\categories\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BF2D9F-4072-45E5-9C25-A94B7B7E60A5}|IMS.Application\\IMS.Application.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.application\\extension\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BF2D9F-4072-45E5-9C25-A94B7B7E60A5}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\extension\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\orders\\cancelorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\orders\\cancelorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\products\\handlers\\categories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\products\\handlers\\categories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|c:\\study-it\\study\\inventorymanagementsystem\\ims.infrastructure\\repository\\products\\handlers\\products\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15393CE-1472-41B9-BC6A-1A4021734FB8}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\repository\\products\\handlers\\products\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderedProductsWithQuantityQuery.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Application\\Service\\Orders\\Queries\\GetOrderedProductsWithQuantityQuery.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\Service\\Orders\\Queries\\GetOrderedProductsWithQuantityQuery.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Application\\Service\\Orders\\Queries\\GetOrderedProductsWithQuantityQuery.cs",
+              "RelativeToolTip": "IMS.Application\\Service\\Orders\\Queries\\GetOrderedProductsWithQuantityQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:21:26.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetOrderedProductsWithQuantityHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetOrderedProductsWithQuantityHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Orders\\GetOrderedProductsWithQuantityHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetOrderedProductsWithQuantityHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Orders\\GetOrderedProductsWithQuantityHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:14:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetGenericOrdersCountHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetGenericOrdersCountHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Orders\\GetGenericOrdersCountHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetGenericOrdersCountHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Orders\\GetGenericOrdersCountHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwB0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:03:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllOrdersHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetAllOrdersHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Orders\\GetAllOrdersHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\GetAllOrdersHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Orders\\GetAllOrdersHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:01:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Orders\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\CreateOrderHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Orders\\CreateOrderHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwA4AAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:53:06.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Application\\Extension\\OrderState.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\Extension\\OrderState.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Application\\Extension\\OrderState.cs",
+              "RelativeToolTip": "IMS.Application\\Extension\\OrderState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:49:59.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\GetAllCategoriesHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\GetAllCategoriesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:45:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Products\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Products\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Products\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Products\\GetProductByIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:44:58.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CancelOrderHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\CancelOrderHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Orders\\CancelOrderHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Orders\\CancelOrderHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Orders\\CancelOrderHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:37:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\CreateCategoryHandler.cs",
+              "ToolTip": "C:\\study-it\\study\\InventoryManagementSystem\\IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\Repository\\Products\\Handlers\\Categories\\CreateCategoryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:37:59.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
